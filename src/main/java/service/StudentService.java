@@ -30,7 +30,6 @@ public class StudentService {
         student1.setStartDate("01/08/2023");
         student1.setEndDate("08/01/2026");
         studentList.add(student1);
-
         Student student2 = new Student();
         student2.setStudentId("003");
         student2.setName("Srihari");
